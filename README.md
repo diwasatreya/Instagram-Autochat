@@ -1,9 +1,9 @@
-# Suscribe to Atreya YT
-- [Subscribe](https://www.youtube.com/channel/UCprRYOr1nWjKDklvvBIqw5g/videos)
+# Suscribe to KP18 Gamer
+- [Subscribe](https://www.youtube.com/c/kp18gamer/featured)
 # Instagram AutoChat
 gives autoreply to user the bot has followed
 
-## This bot was made Atreya YT, do not remove credits or you will have copyright issues.
+## This bot was made Atreya, do not remove credits or you will have copyright issues.
 ### Make sure to follow me in ig below:
 - d.i_w_a.s
 
