@@ -14,7 +14,7 @@ gives autoreply to user the bot has followed
 - make videos on my projects
 - dont copy paste or u will never learn
 ##### Things you should to do:
-- Suscribe to Atreya YT
+- Suscribe to KP18 GAmer
 - star this repo
 - fork this repo
 - follow me
