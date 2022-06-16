@@ -5,7 +5,7 @@ gives autoreply to user the bot has followed
 
 ## This bot was made Atreya, do not remove credits or you will have copyright issues.
 ### Make sure to follow me in ig below:
-- d.i_w_a.s
+- atreyadiwas
 
 #### Star the repo and fork it, Ty
 ###### Things You should not do
@@ -14,7 +14,7 @@ gives autoreply to user the bot has followed
 - make videos on my projects
 - dont copy paste or u will never learn
 ##### Things you should to do:
-- Suscribe to KP18 GAmer
+- Suscribe to Diwas Atreya
 - star this repo
 - fork this repo
 - follow me
