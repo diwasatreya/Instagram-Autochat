@@ -1,4 +1,4 @@
-# Suscribe to KP18 Gamer
+# Suscribe to Diwas Atreya
 - [Subscribe](https://www.youtube.com/c/kp18gamer/featured)
 # Instagram AutoChat
 gives autoreply to user the bot has followed
